@@ -17,6 +17,7 @@
 <hr>
 <br>
 <h2>My&nbsp tool&nbsp Box:</h2>
+<p float="left">
     <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-2-1174936.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/react-js-5379349-4492471.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
@@ -27,6 +28,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png?f=avif&w=128" width="60">&nbsp&nbsp
+</p>
 <hr>
 <br>
 <h2>Connect with me:</h2>
