@@ -15,7 +15,7 @@
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />Aspiring Entrepreneur</li>
 </ul>
 <hr>
-<br>
+
 <h2>My&nbsp tool&nbsp Box:</h2>
 <p float="left">
     <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
@@ -30,7 +30,7 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png?f=avif&w=128" width="60">&nbsp&nbsp
 </p>
 <hr>
-<br>
+
 <h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/vishal-jaiswal-214661226/"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png?f=avif&w=128" width="60"></a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.instagram.com/https.vishal.jx/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-188-498425.png?f=avif&w=128" width="60"></a>&nbsp&nbsp&nbsp&nbsp
