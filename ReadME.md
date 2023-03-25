@@ -4,7 +4,7 @@
 </h1>
 <br>
 <img src="img1.png"></img>
-<hr>
+<br>
 <h3>I'm an enthusiast learner and currently coding in field of webdevelopment&nbsp<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="25" height="25" /></h3>
 <ul>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />&nbsp&nbspI'm currently learning MERN Stack development</li>
@@ -14,7 +14,7 @@
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps%20Medium-Dark%20Skin%20Tone.png" alt="Flexed Biceps Medium-Dark Skin Tone" width="25" height="25" />&nbsp&nbspFun fact: &nbsp I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Heart%20Suit.png" alt="Heart Suit" width="25" height="25" />to grind in gym</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />Aspiring Entrepreneur</li>
 </ul>
-<hr>
+<br>
 
 <h2>My&nbsp tool&nbsp Box:</h2>
 <p float="left">
