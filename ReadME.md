@@ -29,11 +29,10 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png?f=avif&w=128" width="60">&nbsp&nbsp
 </p>
-<hr>
+<br>
 
 <h2>Connect with me:</h2>
 <a href="https://www.linkedin.com/in/vishal-jaiswal-214661226/"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png?f=avif&w=128" width="60"></a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://www.instagram.com/https.vishal.jx/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-188-498425.png?f=avif&w=128" width="60"></a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://twitter.com/https_vishaljx"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-204-498411.png?f=avif&w=128" width="60"></a>
-<hr>
 <br>
