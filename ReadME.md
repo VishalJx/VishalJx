@@ -1,11 +1,11 @@
 <h1>
-    <b>Hi, I'm Vishal Jaiswa&nbspl<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40"/>
+    <b>Hi, I'm Vishal Jaiswal&nbsp<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="40" height="40" /></b>
 </h1>
 <br>
 <img src="img1.png"></img>
 <br>
-<h3>I'm an enthusiast learner and currently coding in field of webdevelopment&nbsp<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="25" height="25" /></h3>
+<h3>I'm an enthusiast learner and currently coding in field of web development&nbsp<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Anchor.png" alt="Anchor" width="25" height="25" /></h3>
 <ul>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />&nbsp&nbspI'm currently learning MERN Stack development</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beetle.png" alt="Beetle" width="25" height="25" />&nbsp&nbspI'm also practicing in cybersecurity  to learn bug-hunting</li>
