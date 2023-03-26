@@ -27,7 +27,8 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/html5-41-1175209.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png?f=avif&w=128" width="60">&nbsp&nbsp
+    <img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
+    <img src="https://cdn.iconscout.com/icon/free/png-256/social-147-95508.png?f=avif&w=128" width="60">&nbsp&nbsp
 </p>
 <br>
 
