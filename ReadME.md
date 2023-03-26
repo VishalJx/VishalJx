@@ -19,7 +19,7 @@
 <h2>My&nbsp tool&nbsp Box:</h2>
 <p float="left">
     <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-2-1174936.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
+    <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-2-1174936.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/react-js-5379349-4492471.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
     <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
