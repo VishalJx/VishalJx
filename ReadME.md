@@ -16,24 +16,35 @@
 </ul>
 <br>
 
-<h2>My&nbsp tool&nbsp Box:</h2>
+> ## Connect with me:
+  <a href="itsmevishal360@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/vishal-jaiswal-214661226/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/https.vishal.jx/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/https_vishaljx">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+<br>
+<br>
+
+> ## My tool Box:
 <p float="left">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-2-1174936.png?f=avif&w=128" width="60">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/react-js-5379349-4492471.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3-1175138.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/css3-10-1175238.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/html5-41-1175209.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/c-4-226082.png?f=avif&w=128" width="50">&nbsp&nbsp&nbsp&nbsp
-    <img src="https://cdn.iconscout.com/icon/free/png-256/github-159-721954.png?f=avif&w=128" width="50">&nbsp&nbsp
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" >&nbsp&nbsp&nbsp&nbsp
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp&nbsp&nbsp&nbsp
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp&nbsp&nbsp&nbsp
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" >&nbsp&nbsp&nbsp&nbsp
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp&nbsp&nbsp&nbsp
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp&nbsp&nbsp&nbsp
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp&nbsp&nbsp&nbsp
+    <img src="	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp&nbsp&nbsp&nbsp
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp&nbsp&nbsp&nbsp
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp&nbsp
 </p>
 <br>
 
-<h2>Connect with me:</h2>
-<a href="https://www.linkedin.com/in/vishal-jaiswal-214661226/"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-2752135-2284952.png?f=avif&w=128" width="60"></a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://www.instagram.com/https.vishal.jx/"><img src="https://cdn.iconscout.com/icon/free/png-256/instagram-188-498425.png?f=avif&w=128" width="60"></a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://twitter.com/https_vishaljx"><img src="https://cdn.iconscout.com/icon/free/png-256/twitter-204-498411.png?f=avif&w=128" width="60"></a>
-<br>
